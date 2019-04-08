@@ -1,0 +1,1 @@
+### This folder contains templates to enable you to complete exercises without walking through each step. It is recommended that you only use these templates if you are really stuck or need to catch up.
