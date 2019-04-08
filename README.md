@@ -35,6 +35,8 @@ We want to promote an interactive environment and foster 2-way discussions on ho
 
 ## Azure services and related products
 
+- Azure Storage Explorer
+- Azure Data Studio
 - Azure Blob Storage
 - Azure SQL DB
 - Azure Data Factory
